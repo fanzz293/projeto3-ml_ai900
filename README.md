@@ -1,4 +1,4 @@
-[Figura 0 - Logo] 
+![r](https://github.com/fanzz293/projeto3-ml_ai900/blob/main/assets/dio.jpeg?raw=true)
 
 ### DESAFIO DE PROJETO DIO #3 - ANÁLISE DE SENTIMENTOS COM LANGUAGE STUDIO NO AZURE AI
 
@@ -25,7 +25,7 @@ Explorando a fala em texto no Speech Studio
 4. Lembre-se de ajustar a linguagem a ser testada a do arquivo!
 No teste feito com o arquivo WhatCanIDo.m4a, o resultado foi esse:
 
-[Figura 1 - Saída de sentença processada pelo speech studio]
+![f](https://github.com/fanzz293/projeto3-ml_ai900/blob/main/assets/figura%201.png?raw=true)
 
 Pronto!
 
@@ -38,7 +38,7 @@ Pronto!
 1. Clique aqui para [visualizar o site.](https://language.cognitive.azure.com)
 2. Preencha o formulário "selecione um recurso do Azure"
 
-[Figura 3 - Recurso Azure]
+![d](https://github.com/fanzz293/projeto3-ml_ai900/blob/main/assets/figura3.jpg?raw=true)
 
 #### Para saber mais [veja aqui](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html).
 
@@ -48,19 +48,19 @@ Pronto!
 
 ##### Através do recurso "analisar sentimento e extrair opiniões", você pode escrever a sentença que preferir ou carregar um arquivo contendo texto relacionado a linguagem selecionada. Segue a seguinte entrada em inglês: 
 
-[Figura 5 ]
+![d]()
 
 ##### A mensagem contém 3 sentenças, que serão analisadas de forma separada. Clicando em executar (run), os resultados do exame de análise de sentimento estão logo abaixo
 
-[Figura 6]
+![d](https://github.com/fanzz293/projeto3-ml_ai900/blob/main/assets/figura%205.jpg?raw=true)
 
-[Fig 7]
+![d](https://github.com/fanzz293/projeto3-ml_ai900/blob/main/assets/figura%206.jpg?raw=true)
 
-[Fig 8]
+![d](https://github.com/fanzz293/projeto3-ml_ai900/blob/main/assets/figura%207.jpg?raw=true)
 
 #### As análises acima são retornos baseados em parâmetros sentimentais que mostram como foi a experiência de usuário em determinado evento. Como mostra o exemplar, o resultado gerado foi ruim.
 
-#### Você pode ficar a vontade para testar o recurso com outras entradas, seja diretamente por texto ou por arquivo documenado. 
+#### Você pode ficar a vontade para testar o recurso com outras entradas, seja diretamente por texto ou por arquivo documentado. 
 
 Referências:
 
